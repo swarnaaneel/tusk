@@ -4,4 +4,7 @@ Kheer
 Pasta
 milk
 
+Beans
+Meat
+
 thank you
